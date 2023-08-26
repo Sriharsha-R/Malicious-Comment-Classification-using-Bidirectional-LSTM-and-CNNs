@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://tanjiro:tanjiro@cluster0.vw3xr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "demonslayer"
+}
